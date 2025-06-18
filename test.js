@@ -1,2 +1,3 @@
-let a = 30;
-let b=20;
+
+let b=40;
+let a = 30
